@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Khedkar</h1>
 <h3 align="center">I like learning new things about the web.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkhedkar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkhedkar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sahillkhedkar" target="blank"><img src="https://img.shields.io/twitter/follow/sahillkhedkar?logo=twitter&style=for-the-badge" alt="sahillkhedkar" /></a> </p>
-
-- 📫 How to reach me **sahillkhedkar@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
