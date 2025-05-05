@@ -16,7 +16,7 @@ I’m a passionate full-stack developer who’s always in pursuit of clean, effi
 - Sharpening **Data Structures & Algorithms** skills  
 
 ## 🎵 Life Beyond the Code 
-- **Wanderlust:** Always up for road trips and discovering new places  
+- **MovieBuff:** I freaking love watching movies and series BINGE WATCH  
 - **Sports:** Big-time cricket fan—love both watching and playing  
 - **Hobbies:** Jamming to music and tinkering with side projects  
 
