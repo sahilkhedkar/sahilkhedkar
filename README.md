@@ -13,7 +13,7 @@ I’m a passionate full-stack developer who’s always in pursuit of clean, effi
 
 ## 👨🏻‍💻 Goals on My Radar 
 - Leveling up in **Web3 & Blockchain Development** 
-- Sharpening **Data Structures & Algorithms** skills  
+- Deep Diving more into **Devops**
 
 ## 🎵 Life Beyond the Code 
 - **MovieBuff:** I freaking love watching movies and series BINGE WATCH  
