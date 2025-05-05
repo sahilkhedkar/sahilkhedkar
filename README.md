@@ -1,9 +1,8 @@
-# Hello I'm Sahil 👋  
+hi# Hello I'm Sahil
 
 I’m a passionate full-stack developer who’s always in pursuit of clean, efficient, and scalable code. I enjoy turning ideas into reality with modern tech stacks. Every day is a chance to learn something new, and I make sure to grab that chance—whether it's a new framework or a cool automation trick.
 
-### 🔧 Tech Toolbox
-***
+## 🔧 Tech Toolbox
 - **Languages:** JavaScript, Python, C++, a bit of Java too  
 - **Frontend Frameworks:** React.js, Next.js  
 - **Backend:** Node.js, Express   
@@ -12,19 +11,16 @@ I’m a passionate full-stack developer who’s always in pursuit of clean, effi
 - **Version Control:** Git & GitHub  
 - **API Mastery:** Experienced in building and integrating robust APIs  
 
-### 👨🏻‍💻 Goals on My Radar 
-***
+## 👨🏻‍💻 Goals on My Radar 
 - Leveling up in **Web3 & Blockchain Development** 
 - Sharpening **Data Structures & Algorithms** skills  
 
-### 🎵 Life Beyond the Code 
-***
+## 🎵 Life Beyond the Code 
 - **Wanderlust:** Always up for road trips and discovering new places  
 - **Sports:** Big-time cricket fan—love both watching and playing  
 - **Hobbies:** Jamming to music and tinkering with side projects  
 
-### 💬 Let’s Collaborate  
-***
+## 💬 Let’s Collaborate  
 I love connecting with fellow developers and creators! via <a href="mailto:sahilkhedkr@gmail.com">Email</a> and <a href="https://x.com/sahillkhedkar">Twitter</a> Whether it's a cool idea, an interesting project, or a freelance opportunity — feel free to reach out. I'm always open to chatting, exploring possibilities, and teaming up if it feels like the right fit.   
 
 
