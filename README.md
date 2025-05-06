@@ -3,7 +3,7 @@ hi# Hello I'm Sahil 👋
 I’m a passionate full-stack developer who’s always in pursuit of clean, efficient, and scalable code. I enjoy turning ideas into reality with modern tech stacks. Every day is a chance to learn something new, and I make sure to grab that chance—whether it's a new framework or a cool automation trick.
 
 ## 🔧 Tech Toolbox
-- **Languages:** JavaScript, Python, Typescript, a bit of C too  
+- **Languages:** JavaScript, Python, Typescript 
 - **Frontend Frameworks:** React.js, Next.js  
 - **Backend:** Node.js, Express   
 - **Databases:** MongoDB, PostgreSQL  
