@@ -11,7 +11,7 @@ I’m a passionate full-stack developer who’s always in pursuit of clean, effi
 - **Version Control:** Git & GitHub  
 - **API Mastery:** Experienced in building and integrating robust APIs  
 
-## 👨🏻‍💻 Goals on My Radar 
+## 👨🏻‍💻 Goals
 - Leveling up in **Web3 & Blockchain Development** 
 - Deep Diving more into **DevOps**
 
