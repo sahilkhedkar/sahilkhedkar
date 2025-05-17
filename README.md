@@ -15,11 +15,6 @@ I’m a passionate full-stack developer who’s always in pursuit of clean, effi
 - Leveling up in **Web3 & Blockchain Development** 
 - Deep Diving more into **DevOps**
 
-## 🎵 Life Beyond the Code 
-- **MovieBuff:** I freaking love watching movies and series BINGE WATCH  
-- **Sports:** Big-time cricket fan—love both watching and playing  
-- **Hobbies:** Jamming to music and tinkering with side projects  
-
 ## 💬 Let’s Collaborate  
 I love connecting with fellow developers and creators! via <a href="mailto:sahilkhedkr@gmail.com">Email</a> and <a href="https://x.com/sahillkhedkar">Twitter</a> Whether it's a cool idea, an interesting project, or a freelance opportunity — feel free to reach out. I'm always open to chatting, exploring possibilities, and teaming up if it feels like the right fit.   
 
