@@ -1,36 +1,19 @@
-hi# Hello I'm Sahil 👋  
-
-I’m a passionate full-stack developer who’s always in pursuit of clean, efficient, and scalable code. I enjoy turning ideas into reality with modern tech stacks. Every day is a chance to learn something new, and I make sure to grab that chance—whether it's a new framework or a cool automation trick.
-
-## 🔧 Tech Stack
-- **Languages:** JavaScript, Python, Typescript 
-- **Frontend Frameworks:** React.js, Next.js  
-- **Backend:** Node.js, Express   
-- **Databases:** MongoDB, PostgreSQL  
-- **DevOps & Deployment:** AWS, Docker, CI/CD, Nginx  
-- **Version Control:** Git & GitHub  
-- **API Mastery:** Experienced in building and integrating robust APIs  
-
-## 👨🏻‍💻 Goals
-- Leveling up in **Web3 & Blockchain Development** 
-- Deep Diving more into **DevOps**
-
-## 💬 Let’s Collaborate  
-I love connecting with fellow developers and creators! via <a href="mailto:sahilkhedkr@gmail.com">Email</a> and <a href="https://x.com/sahillkhedkar">Twitter</a> Whether it's a cool idea, an interesting project, or a freelance opportunity — feel free to reach out. I'm always open to chatting, exploring possibilities, and teaming up if it feels like the right fit.   
-
-
-
-<!--
-**sahilkhedkar/sahilkhedkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">I'm Sahil <br> サヒル</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/40/ae/04/40ae0406f6c8d9d3b8349ed98fb4a81c.gif" alt="GIF" style="width: 120%;" />
+  <br />
+<!--   <img src="https://profile-counter.glitch.me/{sahilkhedkar}/count.svg" alt="Visitor Count" width="40%" /> -->
+</p>
+<h3 align="center">WebDev / Web3 </h3>
+<h3 align="center">Currently learning Web3</h3>
+<h3 align="center">Building Projects</h3>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%3338B2E8.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
